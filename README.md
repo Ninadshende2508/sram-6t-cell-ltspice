@@ -76,9 +76,10 @@ The simulation output shows the two storage nodes operating in perfect complemen
 
 ## Files Included
 
-- `SRAM_6T.asc` — LTspice schematic file
-- `schematic.png` — Full schematic view
+- `sram_6t_cell.asc` — LTspice schematic file
+- `Schematic.png` — Full schematic view
 - `waveforms.png` — Transient simulation output
+- `tiled_view.png` — Combined schematic and waveform view
 
 ## Tools Used
 
